@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-23T08:18:09.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.69" etag="F8Of8KVuPMtBB1e8Q3J0" version="16.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-23T08:22:15.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.69" etag="yRY18hHyqs_UMhLnGp4l" version="16.4.3" type="github">
   <diagram id="JN3Vz_J68iwBXqduEP1-" name="Page-1">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4yR7eveLyW7QboJW2kPM-2" value="SVR" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="4yR7eveLyW7QboJW2kPM-2" value="SVR" style="whiteSpace=wrap;html=1;fontStyle=1;fillColor=#b1ddf0;strokeColor=#10739e;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="380.5" y="191.5" width="79" height="47" as="geometry" />
         </mxCell>
         <mxCell id="4yR7eveLyW7QboJW2kPM-30" value="" style="group;fontStyle=1;fillColor=#FFFF66;strokeColor=#0e8088;gradientColor=#ffffff;" vertex="1" connectable="0" parent="1">
@@ -82,7 +82,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4yR7eveLyW7QboJW2kPM-45" value="DRL Agent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="4yR7eveLyW7QboJW2kPM-45" value="DRL Agent" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="640" y="340" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4yR7eveLyW7QboJW2kPM-43" value="3D environment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
